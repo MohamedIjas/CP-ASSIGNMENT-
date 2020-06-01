@@ -18,4 +18,4 @@ void mian()
       scanf("%[^\n]",info.pin);
       printf("\nDetails \n");
       printf("\nName : %s\nHouse Name : %s\nCity : %s\nState : %s\nPin Code : %s",info.name,info.House_Name,info.city,info.state,info.pin);
-  }    ;
+  }    
